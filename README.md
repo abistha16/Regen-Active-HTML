@@ -69,6 +69,13 @@ The website includes a comprehensive enquiry form that:
 - **Saturday:** Closed
 - **Sunday:** Closed
 
+## 👨‍💻 Developer
+
+**Abish Shrestha** - Software Developer/Web Developer
+
+- **GitHub:** [@abistha16](https://github.com/abistha16)
+- **Email:** orders@regenactivelab.com
+
 ## 📄 License
 
 © 2025 Re-gen Active Lab. All rights reserved.
