@@ -14,7 +14,7 @@ Official website for Re-gen Active Lab, specializing in exosome products for reg
 
 ## 🚀 Live Website
 
-Visit our website: [Re-gen Active Lab](https://regenactivelab.github.io)
+Visit our website: [Re-gen Active Lab](https://abistha16.github.io/Regen-Active-HTML/)
 
 ## 📧 Enquiry Form
 
@@ -45,7 +45,7 @@ The website includes a comprehensive enquiry form that:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/regen-active-lab.git
+   git clone https://github.com/abistha16/Regen-Active-HTML.git
    ```
 
 2. **Configure EmailJS:**
